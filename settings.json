@@ -1,0 +1,8 @@
+{
+	"mailing_speed": 10,
+	"daily_limit": 10,
+	"interval": 1,
+	"random_interval_modes": false,
+	"random_interval": [1, 60],
+	"stop_counter": false
+}
